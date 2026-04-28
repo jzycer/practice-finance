@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-finance/static/css/main.d7fda8aa.css",
+    "main.js": "/practice-finance/static/js/main.8c2fd8e1.js",
+    "index.html": "/practice-finance/index.html",
+    "main.d7fda8aa.css.map": "/practice-finance/static/css/main.d7fda8aa.css.map",
+    "main.8c2fd8e1.js.map": "/practice-finance/static/js/main.8c2fd8e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7fda8aa.css",
+    "static/js/main.8c2fd8e1.js"
+  ]
+}
