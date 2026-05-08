@@ -146,7 +146,7 @@ export default function Dashboard() {
       <aside className="sidebar">
         <div className="sidebar-brand">
           <span className="brand-icon">♥</span>
-          <span className="brand-name">Practice<br/>Finance</span>
+          <span className="brand-name">Guigui<br/>Cardiology</span>
         </div>
         <nav className="sidebar-nav">
           {['overview', 'transactions', 'connect'].map(tab => (
