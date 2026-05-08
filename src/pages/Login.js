@@ -40,7 +40,7 @@ export default function Login() {
       <div className="login-card">
         <div className="login-header">
           <div className="login-logo">♥</div>
-          <h1>Practice Finance</h1>
+          <h1>Guigui Cardiology Finances</h1>
           <p>Financial management for your practice</p>
         </div>
 
